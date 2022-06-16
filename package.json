@@ -24,6 +24,7 @@
   "homepage": "https://github.com/Allchorne3/eleventy-blog-template#readme",
   "devDependencies": {
     "@11ty/eleventy": "^1.0.1",
+    "bulma": "^0.9.4",
     "concurrently": "^7.2.1",
     "helper-moment": "^0.2.0",
     "laravel-mix": "^6.0.45",
